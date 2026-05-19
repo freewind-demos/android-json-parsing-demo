@@ -1,4 +1,4 @@
-package demos
+package demos.android.json.parsing.demo
 
 import android.os.Bundle
 import android.widget.TextView
